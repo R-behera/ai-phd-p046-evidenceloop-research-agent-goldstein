@@ -1,0 +1,13 @@
+{
+  "professor": "Tom Goldstein",
+  "university": "University of Maryland",
+  "program": "Computer Science",
+  "research_area": "ML + optimization, adversarial robustness, LLMs, data",
+  "representative_paper": "Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks; 2018; NeurIPS",
+  "paper_link": "https://scholar.google.com/scholar?q=Poison+Frogs%21+Targeted+Clean-Label+Poisoning+Attacks+on+Neural+Networks",
+  "project_family": "trustworthy",
+  "focus": "optimization",
+  "value_add_artifact": "adaptive red-team and repair regression harness",
+  "next_step": "Replace seed cases with task-specific failures and verify repairs do not regress safe cases.",
+  "generated_for": "professor outreach value-add starter"
+}

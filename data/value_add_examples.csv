@@ -1,0 +1,5 @@
+case_id,category,severity,violation_found,repaired_without_regression
+T1,robustness,2,false,false
+T2,privacy,3,true,true
+T3,fairness,4,false,false
+T4,safety,5,true,false

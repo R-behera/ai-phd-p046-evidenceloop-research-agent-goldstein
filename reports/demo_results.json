@@ -1,0 +1,18 @@
+{
+  "metrics": {
+    "artifact": "adaptive red-team regression harness",
+    "num_cases": 4,
+    "open_failures": [
+      "T4"
+    ],
+    "repair_success_rate": 0.5,
+    "severity_weighted_risk": 0.5714,
+    "violation_rate": 0.5
+  },
+  "next_step": "Replace seed cases with task-specific failures and verify repairs do not regress safe cases.",
+  "professor": "Tom Goldstein",
+  "project_family": "trustworthy",
+  "research_area": "ML + optimization, adversarial robustness, LLMs, data",
+  "university": "University of Maryland",
+  "value_add": "adaptive red-team and repair regression harness"
+}
